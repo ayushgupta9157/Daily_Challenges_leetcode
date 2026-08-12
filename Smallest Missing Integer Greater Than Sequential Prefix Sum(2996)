@@ -1,3 +1,17 @@
+#    Approach
+
+#    Use a Sequential Prefix + HashSet approach.
+
+#    First, find the longest sequential prefix starting from nums[0].
+#    Keep adding elements to sum as long as nums[i] == nums[i-1] + 1.
+#    Store all array elements in a HashSet for quick lookup.
+#    Start checking from sum.
+#    If sum is already present in the set, increment it until we find a number that is missing.
+#    Return that missing number.
+
+#    Time Complexity: O(n)
+#    Space Complexity: O(n)
+
 class Solution {
     public int missingInteger(int[] nums) {
         int n = nums.length;
