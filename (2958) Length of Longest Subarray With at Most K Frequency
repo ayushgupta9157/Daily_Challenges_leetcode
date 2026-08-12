@@ -1,0 +1,35 @@
+#   Approach
+
+#   Use a Sliding Window + HashMap approach.
+
+#   Use two pointers i and j to maintain the current window.
+#   Store the frequency of each element in the HashMap.
+#   Expand the window by moving j and increasing the element's frequency.
+#   If any frequency exceeds k, move i forward and decrease frequencies until the window becomes valid again.
+#   Calculate the current window length as j - i + 1 and keep the maximum length in ans.
+#   Finally, return ans.
+
+#   Time Complexity: O(n)
+#   Space Complexity: O(n)
+
+
+class Solution {
+    public int maxSubarrayLength(int[] nums, int k) {
+        int i = 0;
+        int j = 0;
+        int n = nums.length;
+        int ans = 0;
+        HashMap<Integer, Integer> map = new HashMap<>();
+        while (j < n) {
+            map.put(nums[j], map.getOrDefault(nums[j], 0) + 1);
+            while (map.get(nums[j]) > k) {
+                map.put(nums[i], map.get(nums[i]) - 1);
+                i++;
+            }
+            int ans1 = j- i+1;
+            ans = Math.max(ans, ans1);
+            j++;
+        }
+        return ans;
+    }
+}
