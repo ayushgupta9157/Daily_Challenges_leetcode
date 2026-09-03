@@ -28,5 +28,6 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3516-find-closest-person](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3516-find-closest-person/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 <!---LeetCode Topics End-->
