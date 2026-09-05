@@ -1,11 +1,8 @@
 class Solution {
     public boolean isPowerOfTwo(int n) {
-        int a=31;
-        for(int i=0;i<a;i++){
-            if(1<<i==n){
-                return true;
-            }
-        }
-        return false;
+        if(n==0) return false;
+        if(n==1) return true;
+        if(n%2==1) return false;
+        return isPowerOfTwo(n/2);
     }
 }
