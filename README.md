@@ -29,10 +29,19 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0231-power-of-two/) | Easy |
 | [3516-find-closest-person](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3516-find-closest-person/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0231-power-of-two/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
