@@ -30,6 +30,7 @@
 | [0078-subsets](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0078-subsets/) | Medium |
 | [0260-single-number-iii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Math
@@ -61,6 +62,7 @@
 | [0002-add-two-numbers](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0231-power-of-two](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0342-power-of-four/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,4 +88,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
