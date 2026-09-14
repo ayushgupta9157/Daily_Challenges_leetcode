@@ -42,6 +42,7 @@
 | [0231-power-of-two](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0342-power-of-four](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0836-rectangle-overlap](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [3516-find-closest-person](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3516-find-closest-person/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Prefix Sum
@@ -101,4 +102,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
