@@ -30,6 +30,7 @@
 | [0078-subsets](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0078-subsets/) | Medium |
 | [0260-single-number-iii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -116,4 +117,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 <!---LeetCode Topics End-->
