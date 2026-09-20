@@ -110,6 +110,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
@@ -128,6 +129,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1208-get-equal-substrings-within-budget](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
