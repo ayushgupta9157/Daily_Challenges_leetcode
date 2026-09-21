@@ -10,6 +10,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +86,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,10 +95,12 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -135,4 +140,8 @@
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
