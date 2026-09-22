@@ -27,6 +27,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0078-subsets](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0078-subsets/) | Medium |
@@ -150,5 +151,6 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
