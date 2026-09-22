@@ -30,6 +30,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0078-subsets](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0078-subsets/) | Medium |
+| [0189-rotate-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0260-single-number-iii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
@@ -45,6 +46,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0189-rotate-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0342-power-of-four](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0342-power-of-four/) | Easy |
@@ -145,4 +147,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
