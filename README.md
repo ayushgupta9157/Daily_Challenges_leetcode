@@ -39,6 +39,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -55,6 +56,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3516-find-closest-person](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3516-find-closest-person/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
