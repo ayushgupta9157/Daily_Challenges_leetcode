@@ -10,6 +10,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -18,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +107,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -112,6 +115,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
