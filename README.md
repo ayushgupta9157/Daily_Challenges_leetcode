@@ -42,6 +42,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -161,6 +162,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +181,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0169-majority-element/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
