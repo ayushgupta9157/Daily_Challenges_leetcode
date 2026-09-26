@@ -39,6 +39,7 @@
 | [0189-rotate-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0260-single-number-iii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
@@ -158,6 +159,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -189,4 +191,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
