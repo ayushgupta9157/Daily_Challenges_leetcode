@@ -41,6 +41,7 @@
 | [0169-majority-element](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -100,6 +101,7 @@
 | [0169-majority-element](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -114,6 +116,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0867-transpose-matrix/) | Easy |
 ## Tree
@@ -176,6 +179,7 @@
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0441-arranging-coins](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
