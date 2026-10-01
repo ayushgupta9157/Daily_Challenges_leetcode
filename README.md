@@ -168,6 +168,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [1208-get-equal-substrings-within-budget](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Binary Search
@@ -223,9 +224,14 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
