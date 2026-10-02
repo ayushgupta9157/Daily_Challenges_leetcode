@@ -36,6 +36,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0078-subsets/) | Medium |
 | [0118-pascals-triangle](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -117,6 +118,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0867-transpose-matrix/) | Easy |
@@ -141,6 +143,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0169-majority-element/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
