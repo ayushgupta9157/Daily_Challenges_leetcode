@@ -114,6 +114,7 @@
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -179,6 +180,7 @@
 | [0020-valid-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Binary Search
@@ -240,6 +242,7 @@
 | [0020-valid-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -251,4 +254,5 @@
 | [0020-valid-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
