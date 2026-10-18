@@ -51,6 +51,7 @@
 | [0867-transpose-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -95,6 +96,7 @@
 | [0260-single-number-iii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0342-power-of-four](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +155,7 @@
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0169-majority-element/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -194,6 +197,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1208-get-equal-substrings-within-budget](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Binary Search
@@ -227,6 +231,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0169-majority-element/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
