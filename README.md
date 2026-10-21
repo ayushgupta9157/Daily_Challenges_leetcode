@@ -201,6 +201,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
