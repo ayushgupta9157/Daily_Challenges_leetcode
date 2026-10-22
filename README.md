@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Depth-First Search
@@ -155,6 +156,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0169-majority-element](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0169-majority-element/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
