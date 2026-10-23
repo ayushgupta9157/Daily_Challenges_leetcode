@@ -11,6 +11,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0463-island-perimeter](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -21,6 +22,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0463-island-perimeter](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Union-Find
@@ -46,6 +48,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0260-single-number-iii/) | Medium |
+| [0463-island-perimeter](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
@@ -132,6 +135,7 @@
 | [0048-rotate-image](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0463-island-perimeter](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0867-transpose-matrix/) | Easy |
 ## Tree
