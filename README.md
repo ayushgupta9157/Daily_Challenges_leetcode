@@ -19,16 +19,19 @@
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +69,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -140,6 +144,7 @@
 | [0463-island-perimeter](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
