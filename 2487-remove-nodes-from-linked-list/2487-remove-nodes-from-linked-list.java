@@ -1,26 +1,28 @@
 class Solution {
     public ListNode removeNodes(ListNode head) {
-        Stack<Integer> st = new Stack<>();
-        ListNode temp = head ;
-        while(temp!=null){
-            int a=temp.val;
-            while(!st.isEmpty() && st.peek()<a){
-                st.pop();
+        head = reverse(head);
+        ListNode curr = head;
+        int max = curr.val;
+        while (curr != null && curr.next != null) {
+            if (curr.next.val < max) {
+                curr.next = curr.next.next;
             }
-            st.push(a);
-            temp = temp.next;
+            else {
+                curr = curr.next;
+                max = curr.val;
+            }
         }
-        int a = st.size();
-        int[] arr = new int[a];
-        for(int i=arr.length-1;i>=0;i--){
-            arr[i]=st.pop();
+        return reverse(head);
+    }
+    public ListNode reverse(ListNode head) {
+        ListNode prev = null;
+        ListNode curr = head;
+        while (curr != null) {
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
         }
-        ListNode dummy = new ListNode(-1);
-        ListNode temp1  = dummy;
-        for(int i=0;i<arr.length;i++){
-            temp1.next = new ListNode(arr[i]);
-            temp1=temp1.next;
-        }
-        return dummy.next;
+        return prev;
     }
 }
