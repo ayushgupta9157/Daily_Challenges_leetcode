@@ -58,6 +58,7 @@
 | [0260-single-number-iii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0463-island-perimeter](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0496-next-greater-element-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0867-transpose-matrix/) | Easy |
@@ -176,6 +177,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0169-majority-element](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0169-majority-element/) | Easy |
+| [0496-next-greater-element-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -286,6 +288,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0496-next-greater-element-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -315,5 +318,6 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 <!---LeetCode Topics End-->
