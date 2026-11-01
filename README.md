@@ -59,6 +59,7 @@
 | [0463-island-perimeter](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0867-transpose-matrix/) | Easy |
@@ -289,6 +290,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -319,5 +321,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 <!---LeetCode Topics End-->
