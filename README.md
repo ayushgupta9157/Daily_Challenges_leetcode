@@ -16,6 +16,7 @@
 | [0547-number-of-provinces](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -29,17 +30,20 @@
 | [0547-number-of-provinces](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
