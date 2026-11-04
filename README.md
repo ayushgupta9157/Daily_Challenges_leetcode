@@ -71,6 +71,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -301,6 +302,7 @@
 | [0856-score-of-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2487-remove-nodes-from-linked-list](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Quickselect
@@ -328,5 +330,6 @@
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2487-remove-nodes-from-linked-list](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 <!---LeetCode Topics End-->
