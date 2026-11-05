@@ -70,6 +70,7 @@
 | [1254-number-of-closed-islands](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -242,6 +243,7 @@
 | [0441-arranging-coins](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -255,11 +257,13 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0189-rotate-array/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Counting
