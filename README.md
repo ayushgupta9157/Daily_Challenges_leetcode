@@ -53,6 +53,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0078-subsets/) | Medium |
+| [0085-maximal-rectangle](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0169-majority-element](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0169-majority-element/) | Easy |
@@ -156,6 +157,7 @@
 | [0048-rotate-image](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0085-maximal-rectangle](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
@@ -280,6 +282,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -300,6 +303,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0085-maximal-rectangle](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -332,6 +336,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
