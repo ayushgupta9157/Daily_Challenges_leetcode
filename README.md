@@ -72,6 +72,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -312,6 +313,7 @@
 | [0901-online-stock-span](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2487-remove-nodes-from-linked-list](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
@@ -344,6 +346,7 @@
 | [0496-next-greater-element-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2487-remove-nodes-from-linked-list](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Design
