@@ -234,6 +234,7 @@
 | [1208-get-equal-substrings-within-budget](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
@@ -262,6 +263,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0189-rotate-array/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +318,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [2000-reverse-prefix-of-word](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Quickselect
