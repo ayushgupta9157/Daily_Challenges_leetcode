@@ -84,6 +84,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -115,6 +116,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1208-get-equal-substrings-within-budget](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -226,6 +228,7 @@
 | ------- | ------- |
 | [1208-get-equal-substrings-within-budget](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
