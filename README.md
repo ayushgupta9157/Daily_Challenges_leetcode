@@ -239,6 +239,7 @@
 | [0856-score-of-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -300,6 +301,7 @@
 | [0118-pascals-triangle](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -379,4 +381,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
