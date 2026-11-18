@@ -1,20 +1,24 @@
 class Solution {
     public int[] deckRevealedIncreasing(int[] deck) {
         Arrays.sort(deck);
-        boolean skip = true;
-        int[] ans = new int[deck.length];
-        int i = 0;
-        int j = 0;
-        while(i < deck.length) {
-            if(ans[j] == 0) {
-                if(skip == true) {
-                    ans[j] = deck[i];
-                    i++;
-                }
-                skip = !skip;
-            }
-            j = (j + 1) % deck.length;
+        Queue<Integer> q = new LinkedList<>();
+        int n = deck.length;
+        int[] result = new int[n];
+        for(int i=0;i<n;i++){
+            q.add(i);
         }
-        return ans;
+        int i=0;
+        while(q.size()>0){
+            int a = q.peek();
+            result[a]=deck[i];
+            q.remove();
+            if(!q.isEmpty()){
+                int b = q.peek();
+                q.add(b);
+                q.remove();
+            }
+            i++;
+        }
+        return result;
     }
 }
