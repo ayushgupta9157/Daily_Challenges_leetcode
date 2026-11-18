@@ -68,6 +68,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -212,6 +213,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
@@ -283,6 +285,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -380,6 +383,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Memoization
