@@ -84,6 +84,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -120,6 +121,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1208-get-equal-substrings-within-budget](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Bit Manipulation
@@ -132,6 +134,7 @@
 | [0342-power-of-four](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +239,7 @@
 | ------- | ------- |
 | [1208-get-equal-substrings-within-budget](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -386,6 +390,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
