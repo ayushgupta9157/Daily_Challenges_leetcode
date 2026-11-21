@@ -78,6 +78,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [2073-time-needed-to-buy-tickets](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -219,6 +220,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -393,6 +395,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
