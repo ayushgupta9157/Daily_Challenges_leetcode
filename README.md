@@ -256,6 +256,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
