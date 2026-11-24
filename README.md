@@ -89,6 +89,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -114,6 +115,7 @@
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3516-find-closest-person](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3516-find-closest-person/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -212,6 +214,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -243,6 +246,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -406,4 +410,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
