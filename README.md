@@ -264,6 +264,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -291,6 +292,7 @@
 | [0189-rotate-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0189-rotate-array/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
