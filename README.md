@@ -115,6 +115,7 @@
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3360-stone-removal-game](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3516-find-closest-person](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3516-find-closest-person/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -226,6 +227,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Geometry
