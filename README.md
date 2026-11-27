@@ -80,6 +80,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2073-time-needed-to-buy-tickets](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -225,6 +226,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3360-stone-removal-game](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3360-stone-removal-game/) | Easy |
@@ -294,6 +296,7 @@
 | [0189-rotate-array](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/0189-rotate-array/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/ayushgupta9157/Daily_Challenges_leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
